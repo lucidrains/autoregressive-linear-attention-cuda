@@ -23,3 +23,13 @@ CUDA implementation of autoregressive linear attention, with all the latest rese
     volume  = {abs/2208.00579}
 }
 ```
+
+```bibtex
+@article{Zhai2021AnAF,
+    title   = {An Attention Free Transformer}, // it is not really attention free, blatant clickbait. just linear attention with some gating added in
+    author  = {Shuangfei Zhai and Walter A. Talbott and Nitish Srivastava and Chen Huang and Hanlin Goh and Ruixiang Zhang and Joshua M. Susskind},
+    journal = {ArXiv},
+    year    = {2021},
+    volume  = {abs/2105.14103}
+}
+```
